@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">Roma Capitale Tour</string>
+    <string name="category_historical">Storia</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_restaurants">Risto</string>
+    <string name="category_events">Eventi</string>
+    <string name="address">Indirizzo</string>
+    <string name="position">Posizione</string>
+    <string name="position_link">Clicca per aprire mappe</string>
+    <string name="youtube">Video guida</string>
+    <string name="wikipedia">Guida by Wikipedia</string>
+    <string name="tripadvisor">Apri Tripadvisor</string>
+    <string name="informations">Clicca per info</string>
+    <string name="inforesources">Informazioni e risorse</string>
+
+    <!-- The strings of the HistoricalFragment -->
+
+    <string name="colosseo">Colosseo</string>
+    <string name="addrcolosseo">Piazza del Colosseo</string>
+    <string name="positcolosseo">https://www.google.com/maps/place/Colosseo/@41.8902102,12.4922309,15z/data=!4m5!3m4!1s0x0:0x28f1c82e908503c4!8m2!3d41.8902102!4d12.4922309</string>
+    <string name="descrcolosseo">https://it.wikipedia.org/wiki/Colosseo</string>
+    <string name="vidcolosseo">https://www.youtube.com/watch?v=E5Szc0TJy4w</string>
+
+    <string name="pantheon">Pantheon</string>
+    <string name="addrpantheon">Piazza della Rotonda</string>
+    <string name="positpantheon">https://www.google.com/maps/place/Pantheon/@41.8986148,12.4746842,17z/data=!3m1!4b1!4m5!3m4!1s0x132f604f678640a9:0xcad165fa2036ce2c!8m2!3d41.8986108!4d12.4768729</string>
+    <string name="descrpantheon">https://it.wikipedia.org/wiki/Pantheon_(Roma)</string>
+    <string name="vidpantheon">https://www.youtube.com/watch?v=7tbAPsEsYTs</string>
+
+    <string name="circomassimo">Circo Massimo</string>
+    <string name="addrcircomassimo">Via del Circo Massimo</string>
+    <string name="positcircomassimo">https://www.google.com/maps/place/Circo+Massimo/@41.8861374,12.4829448,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61cadc47c5c5:0x68110dfa2da8d96c!8m2!3d41.8861334!4d12.4851335</string>
+    <string name="descrcircomassimo">https://it.wikipedia.org/wiki/Circo_Massimo</string>
+    <string name="vidcircomassimo">https://www.youtube.com/watch?v=1uem3VqQr70</string>
+
+    <string name="santamariamaggiore">Bas. S. Maria Maggiore</string>
+    <string name="addrsantamariamaggiore">Piazza di S. M. Maggiore</string>
+    <string name="positsantamariamaggiore">https://www.google.com/maps/place/Basilica+Papale+di+Santa+Maria+Maggiore/@41.8976026,12.4962197,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a4db7d30d7:0xf7b354fb8f8c357a!8m2!3d41.8975986!4d12.4984084</string>
+    <string name="descrsantamariamaggiore">https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_Maggiore</string>
+    <string name="vidsantamariamaggiore">https://www.youtube.com/watch?v=ey64W1bgrzA</string>
+
+    <string name="fororomano">Foro Romano</string>
+    <string name="addrfororomano">Via Della Salaria Vecchia</string>
+    <string name="positfororomano">https://www.google.com/maps/place/Foro+Romano/@41.8924663,12.4831363,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61b383a9cdef:0xfa914007c0ec7de6!8m2!3d41.8924623!4d12.485325</string>
+    <string name="descrfororomano">https://it.wikipedia.org/wiki/Foro_Romano</string>
+    <string name="vidfororomano">https://www.youtube.com/watch?v=ZFyBG5874SY</string>
+
+    <string name="sangiovanni">ArciBas. S. Giovanni in Laterano</string>
+    <string name="addrsangiovanni">Piazza di Porta S. Giovanni</string>
+    <string name="positsangiovanni">https://www.google.com/maps/place/Basilica+di+San+Giovanni+in+Laterano/@41.8858851,12.5034843,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61bf7fcaab73:0x130be9f915490f8!8m2!3d41.8858811!4d12.505673</string>
+    <string name="descrsangiovanni">https://it.wikipedia.org/wiki/Basilica_di_San_Giovanni_in_Laterano</string>
+    <string name="vidsangiovanni">https://www.youtube.com/watch?v=K4E3djD_vrA</string>
+
+    <string name="piazzanavona">Piazza Navona</string>
+    <string name="addrpiazzanavona">Piazza Navona</string>
+    <string name="positpiazzanavona">https://www.google.com/maps/place/Piazza+Navona,+00186+Roma+RM/@41.8991368,12.4711034,17z/data=!3m1!4b1!4m5!3m4!1s0x132f604ffb562893:0x5c425ce8ce05efb!8m2!3d41.8991328!4d12.4732921</string>
+    <string name="descrpiazzanavona">https://it.wikipedia.org/wiki/Piazza_Navona</string>
+    <string name="vidpiazzanavona">https://www.youtube.com/watch?v=6_Uwo5vogWY</string>
+
+    <string name="sanpietro">Bas. San Pietro</string>
+    <string name="addrsanpietro">Piazza di S. Pietro</string>
+    <string name="positsanpietro">https://www.google.com/maps/search/san+pietro/@41.9021314,12.4537848,17z</string>
+    <string name="descrsanpietro">https://it.wikipedia.org/wiki/Basilica_di_San_Pietro_in_Vaticano</string>
+    <string name="vidsanpietro">https://www.youtube.com/watch?v=rM66nvKXfeQ</string>
+
+    <string name="mercatitraiano">Mercati di Traiano</string>
+    <string name="addrmercatitraiano">Via IV Novembre</string>
+    <string name="positmercatitraiano">https://www.google.com/maps/place/Mercati+di+Traiano/@41.8956453,12.4840594,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61b2f1ddeb61:0xb1a89a4d8db4a6bd!8m2!3d41.8956413!4d12.4862481</string>
+    <string name="descrmercatitraiano">https://it.wikipedia.org/wiki/Mercati_di_Traiano</string>
+    <string name="vidmercatitraiano">https://www.youtube.com/watch?v=8nYRKU7_pP0</string>
+
+    <string name="foroaugusto">Foro di Augusto</string>
+    <string name="addrforoaugusto">Via dei Fori Imperiali</string>
+    <string name="positforoaugusto">https://www.google.com/maps/place/Foro+di+Augusto/@41.8942585,12.4847046,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61b3a74e65ed:0x68995faf8f17dcd6!8m2!3d41.8942545!4d12.4868933</string>
+    <string name="descrforoaugusto">https://it.wikipedia.org/wiki/Foro_di_Augusto</string>
+    <string name="vidforoaugusto">https://www.youtube.com/watch?v=uUtKvFs6JTk</string>
+
+    <!-- The strings of the HotelsFragment -->
+
+    <string name="assuntadomus">Assunta domus</string>
+    <string name="addrassuntadomus">Via della Scrofa, 39</string>
+    <string name="positassuntadomus">https://www.google.com/maps/place/Assunta+Domus+-+Elegant+Suite/@41.901432,12.4729973,17z/data=!3m1!4b1!4m7!3m6!1s0x132f605055e777b9:0x367d13153ed62b14!5m1!1s2018-05-02!8m2!3d41.901432!4d12.475186</string>
+    <string name="descrassuntadomus">https://www.tripadvisor.it/Hotel_Review-g187791-d7082722-Reviews-Assunta_Domus-Rome_Lazio.html</string>
+
+    <string name="demetra">Demetra</string>
+    <string name="addrdemetra">Via del Viminale, 8</string>
+    <string name="positdemetra">https://www.google.com/maps/place/Demetra+Hotel+Rome+-+New+4+star+hotel+in+Rome+city+centre/@41.900746,12.4945033,17z/data=!3m1!4b1!4m7!3m6!1s0x132f61a5e9b33a5f:0xa2b305bcca1f6b8f!5m1!1s2018-05-02!8m2!3d41.900746!4d12.496692</string>
+    <string name="descrdemetra">https://www.tripadvisor.it/Hotel_Review-g187791-d3244503-Reviews-Demetra_Hotel-Rome_Lazio.html</string>
+
+    <string name="selectgarden">Select Garden</string>
+    <string name="addrselectgarden">Via Vittorio Bachelet, 6</string>
+    <string name="positselectgarden">https://www.google.com/maps/place/Hotel+Select+Garden/@41.9043304,12.5015665,17z/data=!3m1!4b1!4m7!3m6!1s0x132f61a0f47fe275:0x78f1e0f8a43916e4!5m1!1s2018-05-02!8m2!3d41.9043304!4d12.5037552</string>
+    <string name="descrselectgarden">https://www.tripadvisor.it/Hotel_Review-g187791-d231943-Reviews-Hotel_Select_Garden-Rome_Lazio.html</string>
+
+    <string name="bbgiovy">B&amp;B Giovy</string>
+    <string name="addrbbgiovy">Via Principe Amedeo, 85 A</string>
+    <string name="positbbgiovy">https://www.google.com/maps/place/B%26B+Giovy/@41.8982508,12.4989692,17z/data=!3m1!4b1!4m7!3m6!1s0x132f61a37da2879b:0x102337dc2cc1256a!5m1!1s2018-05-02!8m2!3d41.8982468!4d12.5011579</string>
+    <string name="descrbbgiovy">https://www.tripadvisor.it/Hotel_Review-g187791-d568351-Reviews-Bed_and_Breakfast_Giovy-Rome_Lazio.html</string>
+
+    <string name="abitart">Abitart</string>
+    <string name="addrabitart">Via P. Matteucci, 10</string>
+    <string name="positabitart">https://www.google.com/maps/place/Abitart+Hotel/@41.8721417,12.4786445,17z/data=!3m1!4b1!4m7!3m6!1s0x132f602ba88359e5:0x50d08097689e8397!5m1!1s2018-05-02!8m2!3d41.8721377!4d12.4808332</string>
+    <string name="descrabitart">https://www.tripadvisor.it/Hotel_Review-g187791-d313190-Reviews-Abitart_Hotel-Rome_Lazio.html</string>
+
+    <string name="ars">ARS</string>
+    <string name="addrars">Via Monte Altissimo, 20-24</string>
+    <string name="positars">https://www.google.com/maps/place/Ars+Hotel/@41.9343633,12.5274491,15.25z/data=!4m7!3m6!1s0x132f63fe83c61d1f:0x9de33b3514b7ce0f!5m1!1s2018-05-02!8m2!3d41.936977!4d12.5332978</string>
+    <string name="descrars">https://www.tripadvisor.it/Hotel_Review-g187791-d275761-Reviews-ARS_Hotel-Rome_Lazio.html</string>
+
+    <string name="caravel">Caravel</string>
+    <string name="addrcaravel">Via C. Colombo, 124</string>
+    <string name="positcaravel">https://www.google.com/maps/place/Hotel+Caravel+-+Centro+Congressi/@41.865276,12.4941483,17z/data=!3m1!4b1!4m7!3m6!1s0x13258a779c190673:0x83006fde6dedfd51!5m1!1s2018-05-02!8m2!3d41.865272!4d12.496337</string>
+    <string name="descrcaravel">https://www.tripadvisor.it/Hotel_Review-g187791-d232845-Reviews-Caravel_Hotel-Rome_Lazio.html</string>
+
+    <string name="rediroma">Re di Roma</string>
+    <string name="addrrediroma">Via Vercelli, 21</string>
+    <string name="positrediroma">https://www.google.com/maps/place/Hotel+Re+di+Roma/@41.8819246,12.5151562,17z/data=!3m1!4b1!4m7!3m6!1s0x132f61ed9bdb09d3:0x8c819b06a44c1878!5m1!1s2018-05-02!8m2!3d41.8819206!4d12.5173449</string>
+    <string name="descrrediroma">https://www.tripadvisor.it/Hotel_Review-g187791-d774803-Reviews-Hotel_Re_di_Roma-Rome_Lazio.html</string>
+
+    <string name="plusuniverso">Plus Universo</string>
+    <string name="addrplusuniverso">Via Principe Amedeo, 5/B</string>
+    <string name="positplusuniverso">https://www.google.com/maps/place/Best+Western+Plus+Hotel+Universo/@41.90022,12.4952623,17z/data=!3m2!4b1!5s0x132f61a5b86e21b9:0x1e54ca82be2e7cec!4m7!3m6!1s0x132f61a5c65dfaf1:0xd47e164db3837d1d!5m1!1s2018-05-02!8m2!3d41.900216!4d12.497451</string>
+    <string name="descrplusuniverso">https://www.tripadvisor.it/Hotel_Review-g187791-d203093-Reviews-Best_Western_Plus_Hotel_Universo-Rome_Lazio.html</string>
+
+    <string name="luxuryriver">Luxury on the River</string>
+    <string name="addrluxuryriver">Lungotevere dei Mellini, 34</string>
+    <string name="positluxuryriver">https://www.google.com/maps/place/Luxury+On+The+River/@41.9073291,12.4707572,17z/data=!3m1!4b1!4m7!3m6!1s0x132f60579ba27271:0x681d0bec4dd9f7aa!5m1!1s2018-05-02!8m2!3d41.9073251!4d12.4729459</string>
+    <string name="descrluxuryriver">https://www.tripadvisor.it/Hotel_Review-g187791-d3559938-Reviews-Luxury_on_the_River-Rome_Lazio.html</string>
+
+    <!-- The strings of the RestaurantsFragment -->
+
+    <string name="culinaria">Culinaria</string>
+    <string name="addrculinaria">Via Gaeta, 81</string>
+    <string name="positculinaria">https://www.google.it/maps/place/Culinaria/@41.9038784,12.4993346,15z/data=!4m5!3m4!1s0x0:0x1bda295ad3b7c830!8m2!3d41.9038784!4d12.4993346</string>
+    <string name="descrculinaria">https://www.tripadvisor.it/Restaurant_Review-g187791-d7934734-Reviews-Culinaria-Rome_Lazio.html</string>
+
+    <string name="ipizzicaroli">I Pizzicaroli</string>
+    <string name="addripizzicaroli">Via della Fossa, 9</string>
+    <string name="positipizzicaroli">https://www.google.it/maps/place/%E2%80%AAI+Pizzicaroli%E2%80%AC+piazza+Navona/@41.8989795,12.4687646,17z/data=!3m1!4b1!4m7!3m6!1s0x132f604537d97b39:0x9c24e1db9abd2e2d!5m1!1s2018-05-02!8m2!3d41.8989755!4d12.4709586</string>
+    <string name="descripizzicaroli">https://www.tripadvisor.it/Restaurant_Review-g187791-d9561238-Reviews-I_Pizzicaroli-Rome_Lazio.html</string>
+
+    <string name="mimiecoco">Mimì e Cocò</string>
+    <string name="addrmimiecoco">Via del G. Vecchio, 72</string>
+    <string name="positmimiecoco">https://www.google.it/maps/place/Mim%C3%AC+e+Coc%C3%B2/@41.8981458,12.4691976,17z/data=!3m1!4b1!4m7!3m6!1s0x132f604569509ec3:0x53798c89c670528e!5m1!1s2018-05-02!8m2!3d41.8981418!4d12.4713916</string>
+    <string name="descrmimiecoco">https://www.tripadvisor.it/Restaurant_Review-g187791-d1210614-Reviews-Mimi_e_Coco-Rome_Lazio.html</string>
+
+    <string name="ostimatti">Osti matti</string>
+    <string name="addrostimatti">Via Assisi, 11/A</string>
+    <string name="positostimatti">https://www.google.it/maps/place/Trattoria+Osti+Matti/@41.8783439,12.5218502,17z/data=!3m1!4b1!4m7!3m6!1s0x132f61f6b2bcd489:0x2147c6bf9e20f2cf!5m1!1s2018-05-02!8m2!3d41.8783399!4d12.5240442</string>
+    <string name="descrostimatti">https://www.tripadvisor.it/Restaurant_Review-g187791-d11911590-Reviews-Osti_Matti-Rome_Lazio.html</string>
+
+    <string name="nerone">Ristorante Nerone</string>
+    <string name="addrnerone">Via del Viminale, 7A</string>
+    <string name="positnerone">https://www.google.it/maps/place/Nerone/@41.9010595,12.494711,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a5dd6d121b:0xe1cec88c833f72f8!8m2!3d41.9010555!4d12.496905</string>
+    <string name="descrnerone">https://www.tripadvisor.it/Restaurant_Review-g187791-d12413109-Reviews-Ristorante_Nerone-Rome_Lazio.html</string>
+
+    <string name="tonnarello">Tonnarello</string>
+    <string name="addrtonnarello">Via della Paglia, 1</string>
+    <string name="posittonnarello">https://www.google.it/maps/place/Tonnarello/@41.8898125,12.4670661,17z/data=!3m1!4b1!4m5!3m4!1s0x132f603881103955:0x40ce99886a2ccd58!8m2!3d41.8898085!4d12.4692601</string>
+    <string name="descrtonnarello">https://www.tripadvisor.it/Restaurant_Review-g187791-d13443832-Reviews-Tonnarello-Rome_Lazio.html</string>
+
+    <string name="theloft">The Loft</string>
+    <string name="addrtheloft">Via Leone IV, 34</string>
+    <string name="posittheloft">https://www.google.it/maps/place/The+Loft/@41.9089809,12.4528309,17z/data=!3m1!4b1!4m7!3m6!1s0x132f606229c07b8b:0xef36190c9b39e952!5m1!1s2018-05-02!8m2!3d41.9089769!4d12.4550249</string>
+    <string name="descrtheloft">https://www.tripadvisor.it/Restaurant_Review-g187791-d12708072-Reviews-The_Loft-Rome_Lazio.html</string>
+
+    <string name="believeat">Believeat</string>
+    <string name="addrbelieveat">Via B. da Montone, 7</string>
+    <string name="positbelieveat">https://www.google.it/maps/place/Beliveat+al+Pigneto/@41.889313,12.525888,17z/data=!3m1!4b1!4m7!3m6!1s0x132f61899401b7d1:0xc490f345e8411adf!5m1!1s2018-05-02!8m2!3d41.889309!4d12.528082</string>
+    <string name="descrbelieveat">https://www.tripadvisor.it/Restaurant_Review-g187791-d10301750-Reviews-Beliveat-Rome_Lazio.html</string>
+
+    <string name="felizianerie">Le Felizianerie</string>
+    <string name="addrfelizianerie">Via Candia,71</string>
+    <string name="positfelizianerie">https://www.google.it/maps/place/Le+Felizianerie/@41.908146,12.4511516,17z/data=!3m1!4b1!4m7!3m6!1s0x132f6063a47aaaab:0x5f93d7a90627cb43!5m1!1s2018-05-02!8m2!3d41.908142!4d12.4533456</string>
+    <string name="descrfelizianerie">https://www.tripadvisor.it/Restaurant_Review-g187791-d11814234-Reviews-Le_Felizianerie-Rome_Lazio.html</string>
+
+    <string name="osteriacavaliere">Osteria del Cavaliere</string>
+    <string name="addrosteriacavaliere">Via Alba, 32</string>
+    <string name="positosteriacavaliere">https://www.google.it/maps/place/Osteria+del+Cavaliere/@41.8801814,12.5172661,17z/data=!3m1!4b1!4m7!3m6!1s0x132f61f216d92179:0x4665796bd507138b!5m1!1s2018-05-02!8m2!3d41.8801774!4d12.5194601</string>
+    <string name="descrosteriacavaliere">https://www.tripadvisor.it/Restaurant_Review-g187791-d2298454-Reviews-Osteria_del_Cavaliere-Rome_Lazio.html</string>
+
+    <!-- The strings of the EventsFragment -->
+
+    <string name="cittapizza">La città della pizza</string>
+    <string name="addcittapizza">Via Guido Reni, 7</string>
+    <string name="positcittapizza">https://www.google.it/maps/place/Guido+Reni+District/@41.9280101,12.4649072,17z/data=!3m1!4b1!4m7!3m6!1s0x132f60e98ca5d7e5:0x8360b6e27d3b5fc3!5m1!1s2018-05-02!8m2!3d41.9280061!4d12.4671012</string>
+    <string name="descrcittapizza">http://www.romatoday.it/eventi/la-citta-della-pizza-al-guido-reni-district.html</string>
+
+    <string name="gelatofestival">Gelato festival</string>
+    <string name="addrgelatofestival">Terrazza del Pincio</string>
+    <string name="positgelatofestival">https://www.google.it/maps/place/Terrazza+del+Pincio/@41.9110986,12.4757368,17z/data=!3m1!4b1!4m7!3m6!1s0x132f60f92a488695:0x651bc794a597176c!5m1!1s2018-05-02!8m2!3d41.9110946!4d12.4779308</string>
+    <string name="descrgelatofestival">http://www.gelatofestival.it/it/competition</string>
+
+    <string name="klimtexperience">Klimt Experience</string>
+    <string name="addrklimtexperience">Piazza S. G. in Laterano, 74</string>
+    <string name="positklimtexperience">https://www.google.it/maps/place/Piazza+di+San+Giovanni+in+Laterano,+74,+00185+Roma+RM/@41.8873043,12.5015921,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61bf74e0a9fd:0xa5d4d531e6d8b086!8m2!3d41.8873003!4d12.5037861</string>
+    <string name="descrklimtexperience">http://www.klimtexperience.com</string>
+
+    <string name="hiroshige">Hiroshige visioni dal Giappone</string>
+    <string name="addrhiroshige">Via XXIV Maggio, 16</string>
+    <string name="posithiroshige">https://www.google.it/maps/place/Scuderie+del+Quirinale/@41.8987285,12.4842347,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61ad76a754a9:0x33f63116dc4b5be3!8m2!3d41.8987245!4d12.4864287</string>
+    <string name="descrhiroshige">http://www.romatoday.it/eventi/hiroshige-visioni-dal-giappone-mostra-alle-scuderie-del-quirinale.html</string>
+
+    <string name="terryoneill">Terry O\'Neill Icons</string>
+    <string name="addrterryoneill">Via di S. P. In Carcere</string>
+    <string name="positterryoneill">https://www.google.it/maps/place/Complesso+del+Vittoriano+Ala+Brasini/@41.8943125,12.4813003,17z/data=!4m8!1m2!2m1!1scomplesso+del+vittoriano!3m4!1s0x132f604cb33b3301:0xfc7c8334d8190b6f!8m2!3d41.8940194!4d12.4838617</string>
+    <string name="descrterryoneill">http://www.romatoday.it/eventi/terry-o-neill-icons-in-mostra-al-vittoriano.html</string>
+
+    <string name="turner">Turner opere della Tate</string>
+    <string name="addrturner">Chiostro del Bramante</string>
+    <string name="positturner">https://www.google.it/maps/place/Chiostro+del+Bramante/@41.899881,12.4694885,17z/data=!3m1!4b1!4m5!3m4!1s0x132f605ab1250557:0x58372d61ac08ed34!8m2!3d41.899877!4d12.4716825</string>
+    <string name="descrturner">http://www.romatoday.it/eventi/turner-opere-della-tate-mostra-chiostro-bramante.html</string>
+
+    <string name="liubolin">Liu Bolin l\'arte invisibile</string>
+    <string name="addrliubolin">Complesso del Vittoriano</string>
+    <string name="positliubolin">https://www.google.it/maps/place/Complesso+del+Vittoriano+Ala+Brasini/@41.8943125,12.4813003,17z/data=!4m8!1m2!2m1!1scomplesso+del+vittoriano!3m4!1s0x132f604cb33b3301:0xfc7c8334d8190b6f!8m2!3d41.8940194!4d12.4838617</string>
+    <string name="descrliubolin">http://www.romatoday.it/eventi/liu-bolin-the-invisible-man-mostra-a-roma.html</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

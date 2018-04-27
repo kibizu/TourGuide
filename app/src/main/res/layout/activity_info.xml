@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity"
+        android:background="?android:attr/colorPrimary">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:context=".InfoActivity"
+
+            >
+            <include android:id="@+id/tool_bar"
+                layout="@layout/tool_bar"/>
+
+            <ImageView
+                android:id="@+id/info_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/basilica_san_pietro"
+                android:scaleType="center"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:textAlignment="center"
+                android:paddingTop="@dimen/padding15"
+                android:textStyle="bold"
+                android:textSize="@dimen/detailtextsize"
+                android:textColor="@color/title_text_color"
+                android:text="@string/inforesources"
+                android:background="@color/headingIA"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:textAlignment="center"
+                android:layout_marginTop="@dimen/dimension20"
+                >
+
+                <!--This is the first column of the LOCATION INFORMATIONS -->
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:gravity="right"
+                    >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/address"
+                        android:textStyle="bold"
+                        android:textColor="@color/title_text_color"
+                        android:textAlignment="viewEnd"
+                        android:textSize="@dimen/infotextsize"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/position"
+                        android:textStyle="bold"
+                        android:textColor="@color/title_text_color"
+                        android:paddingTop="@dimen/padding10"
+                        android:paddingBottom="@dimen/padding10"
+                        android:textAlignment="viewEnd"
+                        android:textSize="@dimen/infotextsize"/>
+
+                    <ImageView
+                        android:id="@+id/descriptionimage"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/wikipedia"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimension10"
+                        android:textStyle="bold"
+                        />
+
+                    <ImageView
+                        android:id="@+id/youtubeicon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/youtube"
+                        />
+
+
+                </LinearLayout>
+
+                <!--This is the second column of the CONTACT INFORMATIONS -->
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:orientation="vertical"
+                    android:paddingLeft="@dimen/padding20">
+
+                    <TextView
+                        android:id="@+id/address"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/address"
+                        android:textColor="@color/title_text_color"
+                        android:textSize="@dimen/infotextsize"
+                        />
+
+                    <TextView
+                        android:id="@+id/position"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/position_link"
+                        android:textColor="@color/title_text_color"
+                        android:paddingTop="@dimen/padding10"
+                        android:paddingBottom="@dimen/padding10"
+                        android:textSize="@dimen/infotextsize"
+                        />
+
+                    <TextView
+                        android:id="@+id/descr_source"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/wikipedia"
+                        android:textColor="@color/title_text_color"
+                        android:textSize="@dimen/infotextsize"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimension10"
+                        />
+
+                    <TextView
+                        android:id="@+id/youtube_source"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/youtube"
+                        android:textColor="@color/title_text_color"
+                        android:textSize="@dimen/infotextsize"
+                        />
+
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</layout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#ffffff</color>
+    <color name="selected_text_tab">#0037ff</color>
+    <color name="text_tab">#6787fc</color>
+    
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#ffffff</color>
+    <color name="category">#FFFFFF</color>
+    
+    
+    <!-- Background color for app -->
+    <color name="tan_background">#FFFFFF</color>
+    <color name="color_movie_icon">#0037ff</color>
+    <color name="title_text_color">#0037ff</color>
+    <color name="headingIA">#d9e1ff</color>
+    
+    
+</resources>
